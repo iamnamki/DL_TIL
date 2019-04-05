@@ -4,6 +4,7 @@
 
 #### 내용
 1. Tensorflow
+2. Deep Learning
 
 #### 참조
 
