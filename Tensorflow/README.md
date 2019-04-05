@@ -1,4 +1,4 @@
-## Deep leaning 
+## Deep Learning
 ### Tensorflow
 
 **1. linear regression** 
