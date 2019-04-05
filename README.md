@@ -1,6 +1,6 @@
 ### Deep Learning
 
-Deep Learnig 기본개념 정리 Repository 
+* Deep Learnig 기본개념 정리 Repository 
 
 ### 참조
 
