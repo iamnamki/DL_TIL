@@ -1,4 +1,8 @@
-## Tensorflow 개념 정리 epository 
+### Deep learning
+
+하루에 배운 Deep learnig 기본개념 정리 Repository 
+
+### 출처
 
 * 강의 웹사이트: http://hunkim.github.io/ml/
 
