@@ -1,8 +1,11 @@
-### Deep Learning
+### DL_TIL
 
 * Deep Learnig 기본개념 정리 Repository 
 
-### 참조
+#### 내용
+1. Tensorflow
+
+#### 참조
 
 &nbsp;&nbsp; [참조1] http://hunkim.github.io/ml/
 
